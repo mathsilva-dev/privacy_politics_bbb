@@ -61,7 +61,7 @@ Encorajamos você a visitar períodicamente nossas políticas de privacidade, ao
 * ### **Como entrar em contato conosco em caso de dúvidas.**
 Você pode entrar em contato conosco online, através dos emails de contato ou redes sociais, sendo elas:
 
-* Email: mathsilva.dev@gmail.com
+* Email: suporte.dev.bbb@gmail.com
 * Instagram: **_Em breve será criado._**
 
 
