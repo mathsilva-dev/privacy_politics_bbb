@@ -1,2 +1,3 @@
-# privacy_politics_bbb
-&lt;pt_BR> Políticas de Privacidade do Aplicativo BBB - Bom é Bebida Barata. &lt;/pt_BR> &lt;en_US> Privacy Politics of the app BBB - Bom é Bebida Barata &lt;/en_US>
+# Políticas de Privacidade do BBB - Bom é Bebida Barata
+
+Esta política descreve as informações que processamos para a melhor utilização do app do BBB. Caso deseje mais informações acerca, pode entrar em contato através do nosso email ou redes sociais.
